@@ -20,5 +20,5 @@ jobs:
       security-events: write
       id-token: write
     with:
-      registry: ghcr.io/bryopsida
+      registry: ghcr.io/di0ik
       image_name: wireguard
